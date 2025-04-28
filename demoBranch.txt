@@ -1,0 +1,4 @@
+this is my file for checking the marge files
+i use marge command like this
+first come to the permanent branch with switch command 
+then user marge command
